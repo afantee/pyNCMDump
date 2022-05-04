@@ -1,5 +1,4 @@
-# pyNCMDUMP
-
+# pyNCMDump
 This is a simple commandline tool that helps you convert an encrypted `.ncm` file into its original, more commonly seen audio types (e.g. `flac` and `mp3`). 
 
 ## Dependencies
